@@ -1,0 +1,1 @@
+This is a program that lets you play a guessing game. You can change the guess word and try amounts from the code. You can also adjust the hints from here. I added 3 hints but by copying or deleting the code you can increase the hint amount too.
